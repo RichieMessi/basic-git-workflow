@@ -8,3 +8,7 @@ body {
     padding: 3rem;
     margin-top: 2rem;
 }
+
+.hidden {
+	display: none;
+}
